@@ -1,3 +1,17 @@
+P2PU Discourse is on Heroku
+============================
+
+ * App is hosted on git@heroku.com:p2pu-discourse.git
+ * Clone and update as you see fit.
+ * `heroku config` will tell you alot of good info about the app
+ * The instructions used are in the later part of this document.
+ * We are using mandrill www.mandrill.com for sending emails. They give us 12,000 emails a month for free. We might not need more than this. Check the tech accounts Doc for login info.
+ * The clockwork 'error' in the admin portion is not actually an error. We are using the heroku scheduler instead.
+
+
+This is running for free!
+
+
 Setting up Discourse on Heroku
 ==============================
 *Last updated for version 0.8.5*
