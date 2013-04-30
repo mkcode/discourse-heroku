@@ -1,4 +1,4 @@
-Setting up Discourse on Heroku
+Setting up Discourse on Heroku 
 ==============================
 *Last updated for version 0.8.5*
 
